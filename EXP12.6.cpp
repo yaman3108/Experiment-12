@@ -21,5 +21,5 @@ int main()
 destruct aa,bb,cc;
 { destruct dd;
 }
-reutrn 0;
+return 0;
 }
